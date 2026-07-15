@@ -36,11 +36,34 @@ text-align:center;
  box-shadow: 0 0 1rem  rgb(0,0,0,0.3);
  font-size:8vmin;
  color:#090808;
+ background-color:#ffffc7;
 }
 
-#rst-btn{
+#reset-btn{
   padding:1rem;
   font-size:1.25rem;
   background-color:#090808;
   color:aliceblue;
+  border-radius: 1rem;
+  border: none;
+}
+
+#new-btn{
+   padding:1rem;
+  font-size:1.25rem;
+  background-color:#090808;
+  color:aliceblue;
+  border-radius: 1rem;
+  border: none;
+}
+
+#msg{
+  color: #ffffc7;
+  font-size:5vmin;
+
+}
+
+.msg-container{
+  height:30vmin;
+
 }
